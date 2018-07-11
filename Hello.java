@@ -4,6 +4,7 @@ class Hello {
     int age = 42;
     double score =15.9;
     char group = 'Z';
-    System.out.println(age);
+    String hello = "Hello world";
+    System.out.println(hello);
   }
 }
