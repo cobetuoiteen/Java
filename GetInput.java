@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 class GetInput{
 	public static void main(String[] thamso) {
-/*
 		System.out.println("Byte input : ");
 		Scanner myVar = new Scanner(System.in);
 		System.out.println(myVar.nextByte());
@@ -38,7 +37,5 @@ class GetInput{
                 System.out.println("next input : ");
                 myVar = new Scanner(System.in);
                 System.out.println(myVar.next());
-*/
-		System.out.println(thamso[2]);
 	}
 }
